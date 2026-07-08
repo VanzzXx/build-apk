@@ -118,5 +118,15 @@
     "created_at": "2026-07-08T06:10:25.046Z",
     "build_type": "release",
     "only_analyze": "false"
+  },
+  "mrbu7uzotfzo": {
+    "job_id": "mrbu7uzotfzo",
+    "release_id": 350801428,
+    "release_tag": "build-mrbu7uzotfzo",
+    "run_id": 28930005563,
+    "user_id": 8309534854,
+    "created_at": "2026-07-08T08:50:26.090Z",
+    "build_type": "release",
+    "only_analyze": "false"
   }
 }
