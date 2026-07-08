@@ -78,5 +78,15 @@
     "created_at": "2026-07-07T09:17:10.553Z",
     "build_type": "release",
     "only_analyze": "false"
+  },
+  "mrbgf91q4dg5": {
+    "job_id": "mrbgf91q4dg5",
+    "release_id": 350662777,
+    "release_tag": "build-mrbgf91q4dg5",
+    "run_id": 28912921340,
+    "user_id": 8290344956,
+    "created_at": "2026-07-08T02:24:16.297Z",
+    "build_type": "release",
+    "only_analyze": "false"
   }
 }
