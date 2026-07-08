@@ -88,5 +88,35 @@
     "created_at": "2026-07-08T02:24:16.297Z",
     "build_type": "release",
     "only_analyze": "false"
+  },
+  "mrbo750b9pih": {
+    "job_id": "mrbo750b9pih",
+    "release_id": 350723136,
+    "release_tag": "build-mrbo750b9pih",
+    "run_id": 28921213634,
+    "user_id": 7284308582,
+    "created_at": "2026-07-08T06:01:54.265Z",
+    "build_type": "release",
+    "only_analyze": "true"
+  },
+  "mrbo9hc81x72": {
+    "job_id": "mrbo9hc81x72",
+    "release_id": 350723617,
+    "release_tag": "build-mrbo9hc81x72",
+    "run_id": 28921295836,
+    "user_id": 7284308582,
+    "created_at": "2026-07-08T06:03:44.284Z",
+    "build_type": "release",
+    "only_analyze": "false"
+  },
+  "mrboi2tg27tt": {
+    "job_id": "mrboi2tg27tt",
+    "release_id": 350725767,
+    "release_tag": "build-mrboi2tg27tt",
+    "run_id": 28921596997,
+    "user_id": 7284308582,
+    "created_at": "2026-07-08T06:10:25.046Z",
+    "build_type": "release",
+    "only_analyze": "false"
   }
 }
